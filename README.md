@@ -1,2 +1,2 @@
 # congo_ewas
-R scripts and files to reproduce analyses in the publication describing the epigenome-wide association study in Goma, Democractic Republic of Congo.
+R markdown file and zipped knitted R markdown .html  file describing analyses for the epigenome-wide association study in Goma, Democractic Republic of Congo. Link to download files necessary to run scripts can be obtained for author. Raw data files must be downloaded from gene expression omnibus. Contact Edward Quinn at edwardquinn@ufl.edu with any questions.
